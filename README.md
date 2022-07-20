@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a back-end engineer
 - 🌱 I’m currently learning IM
-- 📫 How to reach me: **Wechat** -> `EayonL`
+- 📫 You can contact me through **WeChat**： `EayonL`
 - ⚡ Fun fact: Java No.1
