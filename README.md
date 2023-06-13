@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 😄 I'm glad you opened my homepage.
 
 - 🔭 I'm a back-end engineer
-- 🌱 I’m currently learning **IM**
-- 📫 You can contact me through **WeChat**： `EayonL`
-- ⚡ Fun fact: **Java No.1**
+- 🌱 I’m currently learning **CSE**
+- 📫 How to reach me: www.eayonlee.com
+- ⚡ Fun fact: **Peace**
