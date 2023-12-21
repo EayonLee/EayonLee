@@ -15,9 +15,9 @@ Hello, I'm Eayon, a passionate backend developer. I work with various programmin
 
 Here are some of the technologies and tools I'm proficient in:
 
-- Java ☕
-- Go 🐹
-- Python 🐍
+- Java
+- Go
+- Python
 
 ## My Projects 🛠️
 
