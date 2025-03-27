@@ -5,19 +5,19 @@
 
 ## About Me 👨‍💻
 
-Hello, I'm Eayon, a passionate backend developer. I work with various programming languages, including Java ☕, Go 🐹, and Python 🐍 to build robust backend applications.
+Hello, I'm Eayon.
 
-🏢 I've previously worked at renowned companies like Tencent and 360, specializing in infrastructure and system optimization. I've accumulated valuable work experience and technical knowledge along the way.
+🦸🏻 A passionate backend developer.
 
-🌐 You can visit my personal website at [www.eayonlee.com](www.eayonlee.com) to explore more about my projects and tech blogs.
+🏢 I've previously worked at renowned companies like Tencent and 360, specializing in infrastructure and system optimization.
+
+🌐 You can visit [my blog](www.eayonlee.com) to explore more about my projects and tech post.
 
 ## Tech Stack 💼
-
-Here are some of the technologies and tools I'm proficient in:
-
 - Java
 - Go
 - Python
+- Scala
 
 ## My Projects 🛠️
 
