@@ -21,7 +21,6 @@
 🤖 Currently focused on AI-driven systems, including LLM applications, autonomous agents, and next-generation data infrastructure.
 
 ⌖ **Location** &nbsp; Nanjing, China <br/>
-⌗ **Experience** &nbsp; 7 <br/>
 ◎ **Education** &nbsp; Northeast Forestry University <br/>
 ⟳ **Learning** &nbsp; All AI-related
 
