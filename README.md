@@ -1,12 +1,6 @@
-<div align="center">
+# Hey There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="35" height="35" />
 
-# Hey, I'm Eayon 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer%3BFull-Stack+Explorer%3BCurious+about+AI+and+more" alt="Backend developer, full-stack explorer, and a curious mind" />
-
-</div>
-
-I'm a developer with a backend background who also works across the stack. After all, bugs don't really care where the API boundary is.
+I'm Eayon, a developer with a backend background who also works across the stack. After all, bugs don't really care where the API boundary is.
 
 I've worked on different kinds of systems and platforms, and I enjoy exploring AI, agents, and pretty much anything else that makes me think, “Wait, how does that work?”
 
